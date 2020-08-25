@@ -1,0 +1,15 @@
+#Respostas aula 1 - OO
+#Yuri Alves  18-0078640
+
+1-a)Cria um repositorio git
+b)Clona um repositorio remoto
+c)Cria um galho do repositorio para realizar alterações
+d)Munda o galho que será utilizado
+e)adiciona arquivos de repositorios remotos para o local
+f)Adiciona arquivos do repostitorio remotos para o diretorio de trabalho e para o repositorio local
+g)Adiciona arquivos do diretorio de trabalho para o index
+h)Adiciona do index para o repositorio local
+i)Adiciona ao repositorio remoto o que existe no repositorio local
+
+
+2)No comando fetch não existe alteração no arquivo do repositorio de trabalho diferente do comando pull
